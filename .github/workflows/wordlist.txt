@@ -14,13 +14,11 @@ tabIR
 tabletA
 tabletB
 tabletC
-d’Athis
 USPatent
 bpb
 capsuleXR
 CarbatrolXR
 CBZ
-d’Athis
 DMPK
 ejps
 EUPatent
@@ -37,3 +35,5 @@ TegretolIR
 TegretolXR
 WithoutTablet
 XRtablet
+d’Athis
+dAthis
